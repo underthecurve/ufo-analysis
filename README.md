@@ -1,6 +1,6 @@
 # UFO sightings analysis
 
-``
+
    o                |
              .     -O-    
   .                 |        *      .     -0-
@@ -15,7 +15,7 @@
                    .                        *
    jgs   *               - ) -       *      
                 .               .
-``
+
 
 
 # Data and code supporting the analysis of reported UFO sightings.
