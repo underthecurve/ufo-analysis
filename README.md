@@ -1,4 +1,4 @@
-# UFO sightings analysis: Data and code supporting the analysis of reported UFO sightings
+# UFO sightings analysis
 
 ```
        o                |
