@@ -1,4 +1,4 @@
-# UFO sightings analysis
+# UFO sightings analysis: Data and code supporting the analysis of reported UFO sightings
 
 ```
        o                |
@@ -16,9 +16,6 @@
        jgs   *               - ) -       *      
                     .               .
 ```
-
-
-# Data and code supporting the analysis of reported UFO sightings.
 
 ## Data
 
@@ -40,7 +37,7 @@ The data folder contains the following data:
 
 * `All NPIAS Airports-Table 1.csv`: list of U.S. airports, classified by size of hub, from the [Federal Aviation Administration](https://www.faa.gov/airports/planning_capacity/npias/reports/).
 
-* The data are cleaned, merged, and processed in `cleandata.R`, which creates `.R` data files `ufo.RDS`, `ufo_2016.RDS`, `countypop.RDS`, and `countyincome.RDS` and should be run prior to loading the Jupyter notebooks.
+* The data are cleaned, merged, and processed in [`cleandata.R`](https://github.com/underthecurve/ufo-analysis/blob/master/01_cleandata.R), which creates `.R` data files `ufo.RDS`, `ufo_2016.RDS`, `countypop.RDS`, and `countyincome.RDS` and should be run prior to loading the Jupyter notebooks.
 
 ## Analyses
 
@@ -49,8 +46,6 @@ The analyses are saved in two Jupyter notebooks:
 * `mass_reports_analysis.ipynb`: analysis of mass reports of UFO sightings
 
 * `demogaphic_analysis,ipynb`: analysis of county-level demographics and 2016 UFO sightings
-
-
 
 
 
