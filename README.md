@@ -1,21 +1,21 @@
 # UFO sightings analysis
 
-
-   o                |
-             .     -O-    
-  .                 |        *      .     -0-
-         *  o     .    '       *      .        o
-                .         .        |      *
-     *             *              -O-          .
-           .             *         |     ,
-                  .           o
-          .---.
-    =   _/__~0_\_     .  *            o       ' 
-   = = (_________)             .            
-                   .                        *
-   jgs   *               - ) -       *      
-                .               .
-
+``
+       o                |
+                 .     -O-    
+      .                 |        *      .     -0-
+             *  o     .    '       *      .        o
+                    .         .        |      *
+         *             *              -O-          .
+               .             *         |     ,
+                      .           o
+              .---.
+        =   _/__~0_\_     .  *            o       ' 
+       = = (_________)             .            
+                       .                        *
+       jgs   *               - ) -       *      
+                    .               .
+``
 
 
 # Data and code supporting the analysis of reported UFO sightings.
